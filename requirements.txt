@@ -79,7 +79,7 @@ odfpy==1.4.0
 openpyxl==3.0.0
 pandas==0.25.0
 pathspec==0.5.0
-Pillow==6.1.0
+Pillow==9.0.1
 prison==0.1.2
 promise==2.2.1
 protobuf==3.10.0
