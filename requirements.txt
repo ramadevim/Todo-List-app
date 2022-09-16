@@ -62,7 +62,7 @@ Jinja2==2.10
 jmespath==0.9.3
 jsonschema==3.0.1
 kiwisolver==1.1.0
-Mako==1.0.13
+Mako==1.2.2
 Markdown==3.1.1
 MarkupPy==1.14
 MarkupSafe==1.0
